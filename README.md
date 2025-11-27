@@ -30,9 +30,9 @@ Graphs such as predicted vs. actual values and training loss curves are plotted.
 
 ## PROGRAM:
 
-Name: ADHITHYA K
+Name: Sharukesh T
 
-Register Number: 2305002001
+Register Number: 2305002022
 
 ~~~
 import numpy as np
